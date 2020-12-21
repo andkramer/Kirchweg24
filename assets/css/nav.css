@@ -12,24 +12,22 @@
 }
 
 #nav ul > li > a {
-  color: #20c;
+  color: #03070a;
   font-weight: bold;
   display: block;
   padding: 8px;
-  background: #E3E9FF;
+  background: #0086b377;
   border-radius: inherit;
   text-shadow: 0 0 grey;
   font-size: 1.1em;
 }
 
 #nav ul > li > a.active {
-  #background: #2952A3;
-  cursor: text;
-  color: black;
+  background: #0086b3;
 }
 
 #nav ul > li > a:hover {
-  background: #809bff;
+  background: #00a8e0;
   text-decoration:none;
 }
 

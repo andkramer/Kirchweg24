@@ -23,7 +23,7 @@
           {% for p in navigation_pages %}
             {% if p.navigation_weight %}
               <li>
-                <a href="{% if p.url == page.url %}#{% else %}{{ site.baseurl }}{{ p.url }}{% endif %}" {% if p.url == page.url %}class="active"{% endif %}>
+                <a href="{{ site.baseurl }}{{ p.url }}" {% if p.url == page.url %}class="active"{% endif %}>
                   {{ p.title }}
                 </a>
               </li>
@@ -44,7 +44,7 @@
     <div id="footer_wrap" class="outer">
       <footer class="inner">
         {% if site.github.is_project_page %}
-        <p class="copyright">{{ site.title | default: site.github.repository_name }} is maintained by <a href="{{ site.github.owner_url }}">Andre</a></p>
+        <p class="copyright">{{ site.title | default: site.github.repository_name }} is maintained by <a href="{{ site.github.owner_url }}">Andre Kramer</a></p>
         {% endif %}
         <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
       </footer>
