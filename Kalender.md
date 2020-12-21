@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Kalender
+navigation_weight: 2
 ---
 ## Kalenderseite
 

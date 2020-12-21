@@ -1,5 +1,7 @@
 ---
-title: Home
+layout: default
+title: Startseite
+navigation_weight: 1
 ---
 ## Startseite
 
