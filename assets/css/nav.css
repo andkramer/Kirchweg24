@@ -1,0 +1,39 @@
+#nav ul {
+  padding: 0px;
+}
+
+#nav ul > li {
+  float: left;
+  list-style: none
+}
+
+#nav ul > li > a {
+  color: #03070a;
+  font-weight: bold;
+  display: block;
+  padding: 8px;
+  background: #0086b377;
+  border-radius: inherit;
+  text-shadow: 0 0 grey;
+  font-size: 1.1em;
+}
+
+#nav ul > li > a.active {
+  background: #0086b3;
+}
+
+#nav ul > li > a:hover {
+  background: #00a8e0;
+  text-decoration:none;
+}
+
+#nav ul li:first-child {
+  border-radius: 10px 0px 0px 10px;
+}
+
+#nav ul li:last-child {
+  border-radius: 0px 10px 10px 0px;
+}
+
+#nav ul > li > a:visited {
+}
