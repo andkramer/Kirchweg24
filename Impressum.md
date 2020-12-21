@@ -8,13 +8,12 @@ permalink: /Impressum
 
 ### Angaben gem&auml;&szlig; &sect; 5 TMG
 
-Andre Kramer
-Kirchweg 24
+Andre Kramer  
+Kirchweg 24  
 65629 Niederneisen
 
 ### Kontakt
 
-Telefon: &#91;Telefonnummer&#93;
 E-Mail: andre.kramer@kirchweg24.de
 
 ### Haftung f&uuml;r Inhalte
