@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Kalender
+title: Hausdienst
 navigation_weight: 2
-permalink: /Kalender
+permalink: /Hausdienst
 ---
 ## Kalenderplan für Hausdienst
 
