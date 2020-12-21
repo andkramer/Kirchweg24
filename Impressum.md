@@ -14,7 +14,7 @@ Kirchweg 24
 
 ### Kontakt
 
-E-Mail: andre.kramer@kirchweg24.de
+E-Mail: andre.kramer at kirchweg24.de
 
 ### Haftung f&uuml;r Inhalte
 
